@@ -8,7 +8,7 @@ for all._
 
 As a curious, lifelong learner and due to my career and academic journey, I have received a Fulbright scholarship to pursue a Master's in Integrated Innovation for Products & Services at Carnegie Mellon University.
 
-!(images/dani-pochi.png)
+<img href="images/dani-pochi.png" width="200px">
 
 # What I hope to learn
  
