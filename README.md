@@ -6,9 +6,10 @@ for all._
 
 ***HI, I’M A BUSINESS AND PRODUCT LEADER WITH 3+ YEARS OF EXPERIENCE IN PRODUCT MANAGEMENT AND SOFTWARE DEVELOPMENT.***
 
-As a curious, lifelong learner and due to my career and academic journey, I have received a Fulbright scholarship to pursue a Master's in Integrated Innovation for Products & Services at Carnegie Mellon University.
+<img src="docs/assets/Studio Session-517-2 (2).jpg" width="200px"> 
+As a curious, lifelong learner and due to my career and academic journey,<br> I have received a Fulbright scholarship to pursue a Master's in Integrated Innovation for Products & Services at Carnegie Mellon University.
 
-<img href="dani-pochi.png" width="200px">
+
 
 # What I hope to learn
  
