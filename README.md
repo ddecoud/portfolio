@@ -1,6 +1,3 @@
-# Welcome to my Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!
-
 # About me
 
 _Igniting technology<br>
@@ -17,5 +14,7 @@ As a Product Manager, data is one of the core assets when making product decisio
 
 # Portfolio
 
-[link 
+[Project 1](https://pages.github.com/)
+[Project 2](https://pages.github.com/)
+[Project 3](https://pages.github.com/)
 
