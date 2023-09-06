@@ -15,13 +15,15 @@ As a curious, lifelong learner and due to my career and academic journey, I have
 
 # What I hope to learn
  
-As a Product Manager, data is one of the core assets when making product decisions. However, sometimes it is hard to communicate those findings in an attractive way that engages your managers and investors. I want to become better at communicating and storytelling and start influencing product decisions through data.
+As a Product Manager, data is one of my core assets when making product decisions. However, sometimes it is hard to communicate those findings in an attractive way that engages your managers and investors. I want to become better at communicating and storytelling and start influencing product decisions through data.
 
 # Portfolio
 
-[Assignment: Visualizing overnment Debt]()<br>
+[Assignment 1: Critique by design](critique-by-design)<br>
 
-[Assignment: Critique by design]()<br>
+[Assignment 2: Visualizing overnment Debt]()<br>
+
+
 
 [Final project]()<br>
 
