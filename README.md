@@ -19,9 +19,9 @@ As a Product Manager, data is one of the core assets when making product decisio
 
 # Portfolio
 
-[Project 1](https://pages.github.com/)<br>
+[Assignment: Visualizing overnment Debt]()<br>
 
-[Project 2](https://pages.github.com/)<br>
+[Assignment: Critique by design]()<br>
 
-[Project 3](https://pages.github.com/)<br>
+[Final project]()<br>
 
