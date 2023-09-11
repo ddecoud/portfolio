@@ -8,7 +8,7 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14976674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Visualizing Government Debt - 1995-2022
+# Visualizing Government Debt - From 1995 to 2022
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14984548"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
