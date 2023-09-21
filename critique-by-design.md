@@ -62,5 +62,19 @@ Overall they liked my new design.
 
 # My new redesign
 
+### Design and aesthetics ###
+
+* I maintained the bar chart, because I think it communicates accurately the information to the audience. I took away the colors and set an animation to highlight the worst gap country only after the user gets to understand the visualization. I also changed the percentage's colors and explained the average.
+  
+* I didn't explained what is OECD because it was too long and unimportant. I decided to take it from the barchart, and only cite it in the source section. I also didn't highlighted the top 3, because I thought it was going to be misleading.
+
+### Header ###
+
+* I redefined the title and subtitle to be more engaging and clear.
+
+### Conclusion ###
+
+My redesign is more sober and clear, representing accurately what Statista's audience want to see for making decisions. 
+
 
 <div class="flourish-embed" data-src="story/2036518"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
