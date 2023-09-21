@@ -68,6 +68,8 @@ Overall they liked my new design.
   
 * I didn't explained what is OECD because it was too long and unimportant. I decided to take it from the barchart, and only cite it in the source section. I also didn't highlighted the top 3, because I thought it was going to be misleading.
 
+* I added a captivating footer.
+
 ### Header ###
 
 * I redefined the title and subtitle to be more engaging and clear.
