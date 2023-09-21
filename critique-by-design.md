@@ -40,25 +40,25 @@ Overall they liked my new design.
 
 **Student, Late-20's**
 
-'The title is misleading because it suggest that the gender gap is worse in developed countries. I would interchange the subtitle with the title'
+* 'The title is misleading because it suggest that the gender gap is worse in developed countries. I would interchange the subtitle with the title'
 
-'Is Latvia highlighted because is the worst?'
+* 'Is Latvia highlighted because is the worst?'
 
 **Student, Late-20's**
 
-'What is OECD? Could you explain it somewhere? Also clarify that the blue value is an average'
+* 'What is OECD? Could you explain it somewhere? Also clarify that the blue value is an average'
 
 **Student, Mid-20's**
 
-'Use white for higher contrast with gray'
+* 'Use white for higher contrast with gray'
 
 **Student, Late-20's**
 
-'Why are you highlighting Latvia? If it is highlighted I would say something about Latvia in the subtitle.','Get rid of the lines, you already have the percentages on each bar','White percentages for higher contrast','Highlight the top 3 and make gray more notorious', 'Explicit that the blue value is the average'
+* 'Why are you highlighting Latvia? If it is highlighted I would say something about Latvia in the subtitle.','Get rid of the lines, you already have the percentages on each bar','White percentages for higher contrast','Highlight the top 3 and make gray more notorious', 'Explicit that the blue value is the average'
 
 **Researcher, Late-30's**
 
-'Your x-label should be the title, is much more catchy.' 'I want to see the % metric upfront', 'Is it 24 cents less than a dolar? That's horrible.' (engagement)
+* 'Your x-label should be the title, is much more catchy.' 'I want to see the % metric upfront', 'Is it 24 cents less than a dolar? That's horrible.' (engagement)
 
 # My new redesign
 
