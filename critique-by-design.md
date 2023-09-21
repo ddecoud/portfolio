@@ -1,8 +1,10 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ddecoud.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design)
 
 # Critique by design - Gender Gap in developed countries
 
 Looking for gender gap visualizations, I found this chart that has important information regarding the difference in salaries between men and women in developed countries.
+
+<img src="docs/assets/Gender Gap.png" width="1000px"> 
 
 
 
@@ -24,7 +26,13 @@ Looking for gender gap visualizations, I found this chart that has important inf
 
 I used the new tool presented: Infogram. I found it useful and fast, but I still prefer Flourish. I took into account all the things I wanted to change from the critique exercise and applied them to my new sketch.
 
+* Reduced colors and visual clutter.
+* Added colors only for highlighting the average and the worst country in terms of salaries gender gap.
+* I curated the data to represent better developed countries according to several sources.
+* I set the date, 2021, as a principal asset.
+
 <div class="infogram-embed" data-id="c405cfc9-dd70-4904-9f63-940f49851efb" data-type="interactive" data-title="Bar Chart"></div><script>!function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/c405cfc9-dd70-4904-9f63-940f49851efb" style="color:#989898!important;text-decoration:none!important;" target="_blank">Bar Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
 
 # Gathering feedback
 
@@ -51,6 +59,8 @@ Overall they liked my new design.
 **Researcher, Late-30's**
 
 'Your x-label should be the title, is much more catchy.' 'I want to see the % metric upfront', 'Is it 24 cents less than a dolar? That's horrible.' (engagement)
+
+# My new redesign
 
 
 <div class="flourish-embed" data-src="story/2036518"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
