@@ -2,7 +2,7 @@
 
 # Critique by design - Gender Gap in developed countries
 
-Looking for gender gap visualizations, I found this chart that has important information regarding the difference in salaries between men and women in developed countries.
+Looking for gender gap visualizations, I found <a href="https://www.statista.com/chart/4279/the-gender-pay-gap-in-developed-nations-visualised/" target="_blank">this chart</a> that has important information regarding the difference in salaries between men and women in developed countries.
 
 <img src="docs/assets/Gender Gap.png" width="800px"> 
 
