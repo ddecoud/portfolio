@@ -1,4 +1,4 @@
-| [home page](https://ddecoud.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design)
+| [home page](https://ddecoud.github.io/portfolio/) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md)
 
 # Critique by design - Gender Gap in developed countries
 
