@@ -19,9 +19,9 @@ As a Product Manager, data is one of my core assets when making product decision
 
 # Portfolio
 
-[Assignment 1: Critique by design](critique-by-design.md)<br>
+[Assignment 1: Visualizing Government Debt](government-debt.md)<br>
 
-[Assignment 2: Visualizing Government Debt](government-debt.md)<br>
+[Assignment 2: Critique by design](critique-by-design.md)<br>
 
 
 
