@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](government-debt.md) |
+| [home page](README.md) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1) |
 
 # Visualizing Government Debt - Bar chart
 
