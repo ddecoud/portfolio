@@ -23,7 +23,5 @@ As a Product Manager, data is one of my core assets when making product decision
 
 [Assignment 2: Critique by design](critique-by-design.md)<br>
 
-
-
 [Final project: Part 1](final_part1.md)<br>
 
