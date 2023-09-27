@@ -16,9 +16,21 @@ I will also review, compare and contrast:
 
 I hope this research sheds some light on this controversial topic. While talking with my peers, I realized this is a reality that many of us question. It seems to be an alarming truth we should face as soon as possible.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 
-Text here...
+<img src="" width="800px">
+
+(SETUP) 1) International students at CMU - general chart -  we all know CMU is highly international. - SETUP
+(CONFLICT) 2) Title and open-ended question with closing (reveal technique)
+(CONFLICT) 3) First chart - CMU
+(CONFLICT) 5) Explaining why I decided to check another Tech university rates
+(CONFLICT) 6) 3 major tech university charts compared
+(CONFLICT) 7) Explaining potential reasons
+  5a) Educational level - Sat scores charts
+  5b) University rankings - Comparisson charts
+  5b) Economical level - GDP and Gini charts
+  5c) Personality traits - Comparing spider web charts
+(RESOLUTION) 8) Conclussion (Why everyone should be worried, and call to action
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
