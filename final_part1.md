@@ -18,7 +18,7 @@ I hope this research sheds some light on this controversial topic. While talking
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 
-<img src="docs/assets/project-flow.jpeg" width="800px">
+<img src="docs/assets/Project-flow.jpeg" width="800px">
 
 (SETUP) 1) International students at CMU - general chart -  we all know CMU is highly international. - SETUP
 (CONFLICT) 2) Title and open-ended question with closing (reveal technique)
