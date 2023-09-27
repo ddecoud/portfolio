@@ -28,19 +28,20 @@ I hope this research sheds some light on this controversial topic. While talking
 * Population in the US. Latinxs is the second biggest population of the US - Chart
   
 **CONFLICT** 
-2) Title and open-ended question with closing (reveal technique)
-3) First chart - actual diversity at CMU
-4) Explaining why I decided to check another Tech university rates
-5) 3 major tech university charts compared
-6) Explaining other potential reasons
-  6a) Educational level - 'Educational Attainment, at least Bachelor's or equivalent' Comparing top 5 Universities in Asia and Latin America
-  6b) University rankings - Comparing top 5 Universities in Asia and Latin America
-  6c) Economical level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America
-  6d) Personality traits - Brief citing from articles, currently I haven't found data to make charts.
+
+1) Title and open-ended question with closing (reveal technique)
+2) First chart - actual diversity at CMU
+3) Explaining why I decided to check another Tech university rates
+4) 3 major tech university charts compared
+5) Explaining other potential reasons
+   5a) Educational level - 'Educational Attainment, at least Bachelor's or equivalent' Comparing top 5 Universities in Asia and Latin America
+   5b) University rankings - Comparing top 5 Universities in Asia and Latin America
+   5c) Economical level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America
+   5d) Personality traits - Brief citing from articles, currently I haven't found data to make charts.
 
 **RESOLUTION**
- 8) In the end, Latinx rates are growing. Line chart. :)
- 9) But, Affirmation action possible consequences? :(
+ 1) In the end, Latinx rates are growing. Line chart. :)
+ 2) But, Affirmation action possible consequences? :(
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
