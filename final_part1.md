@@ -36,7 +36,7 @@ I hope this research sheds some light on this controversial topic. While talking
 5) Explaining other potential reasons
 * Educational level - 'Educational Attainment, at least Bachelor's or equivalent' Comparing top 5 Universities in Asia and Latin America
 * University rankings - Comparing top 5 Universities in Asia and Latin America
-* Economical level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America
+* Economical level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America.
 * Personality traits - Brief citing from articles, currently I haven't found data to make charts.
 
 **RESOLUTION**
@@ -52,20 +52,20 @@ Text here...
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
 
 ## Census
-<a href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">US population ethnicity</a>
+<a href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">Census</a> - US population ethnicity
 
 ## University diversity status
 <a href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</a><br>
 <a href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</a>
 
 ## Educational levels
-<a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">'Educational Attainment, at least Bachelor's or equivalent'</a>
+<a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">World Bank dataset</a> - Comparing 'Educational Attainment, at least Bachelor's or equivalent' in selected countries.
 
 ## Economical levels
-<a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Gini index</a> 
+<a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Gini index</a> - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America.
 
 ## University ranking
-<a href="https://www.topuniversities.com/universities/asia?region=[4009]&sorting=[rankings_htol]" target="_blank">QS Worldwide ranking - Comparing top 5 Universities in Asia and Latin America </a>
+<a href="https://www.topuniversities.com/universities/asia?region=[4009]&sorting=[rankings_htol]" target="_blank">QS Worldwide ranking</a> - Comparing top 5 Universities in Asia and Latin America 
 
 
 # Method and medium
