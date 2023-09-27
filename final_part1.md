@@ -52,20 +52,20 @@ Text here...
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
 
 ## Census
-<href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">US population ethnicity</href>
+<a href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">US population ethnicity</a>
 
 ## University diversity status
-<href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</href>
-<href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</href>
+<a href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</a><br>
+<a href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</a>
 
 ## Educational levels
-<href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">'Educational Attainment, at least Bachelor's or equivalent'</href>
+<a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">'Educational Attainment, at least Bachelor's or equivalent'</a>
 
 ## Economical levels
-<href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Gini index</href> 
+<a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Gini index</a> 
 
 ## University ranking
-<href="https://www.topuniversities.com/universities/asia?region=[4009]&sorting=[rankings_htol]" target="_blank">QS Worldwide ranking - Comparing top 5 Universities in Asia and Latin America </href>
+<a href="https://www.topuniversities.com/universities/asia?region=[4009]&sorting=[rankings_htol]" target="_blank">QS Worldwide ranking - Comparing top 5 Universities in Asia and Latin America </a>
 
 
 # Method and medium
