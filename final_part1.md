@@ -43,4 +43,4 @@ Text here...
 
 # Initial Feedback
 
-<img src="docs/assets/Initial feedback part1.jpg" width="400"/>
+<img src="docs/assets/Initial-feedback-part-1.jpg" width="400"/>
