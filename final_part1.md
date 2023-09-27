@@ -41,7 +41,7 @@ I hope this research sheds some light on this controversial topic. While talking
 
 **RESOLUTION**
  1) In the end, Latinx rates are growing. Line chart. :)
- 2) But, Affirmation action possible consequences? :(
+ 2) But, Affirmative action possible consequences? :(
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -49,7 +49,7 @@ I hope this research sheds some light on this controversial topic. While talking
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
+I am planning to start describing how Latinxs are one of the biggest ethnic groups at the US right now and contrasting them with Asians. Next, I am going to show how that trend is the opposite at Tech Universities current master's students. After that, I am going to get more deep in the topic, trying to understand correlations between the foreign countries statistics of selected Asian and Latin countries, and the low quantity of Latinxs (American citizens who consider themselves Latinxs) pursuing a Master's degree at a top Tech university. Finally, I am going to show how the trend is growing for Latinxs pursuing a degree, and explain how the Affirmative action can have consequences in this growing trend.
 
 ## Census
 <a href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">Census</a> - US population ethnicity
