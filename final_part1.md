@@ -18,19 +18,29 @@ I hope this research sheds some light on this controversial topic. While talking
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 
+# My project structure
+
 <img src="docs/assets/Project-flow.jpeg" width="800px">
 
-(SETUP) 1) International students at CMU - general chart -  we all know CMU is highly international. - SETUP
-(CONFLICT) 2) Title and open-ended question with closing (reveal technique)
-(CONFLICT) 3) First chart - CMU
-(CONFLICT) 5) Explaining why I decided to check another Tech university rates
-(CONFLICT) 6) 3 major tech university charts compared
-(CONFLICT) 7) Explaining potential reasons
-  5a) Educational level - Sat scores charts
-  5b) University rankings - Comparisson charts
-  5b) Economical level - GDP and Gini charts
-  5c) Personality traits - Comparing spider web charts
-(RESOLUTION) 8) Conclussion (Why everyone should be worried, and call to action
+**SETUP** 
+1) Diversity at CMU
+* General chart of diversity at CMU - We all know CMU is highly international.
+* Population in the US. Latinxs is the second biggest population of the US - Chart
+  
+**CONFLICT** 
+2) Title and open-ended question with closing (reveal technique)
+3) First chart - actual diversity at CMU
+4) Explaining why I decided to check another Tech university rates
+5) 3 major tech university charts compared
+6) Explaining other potential reasons
+  6a) Educational level - 'Educational Attainment, at least Bachelor's or equivalent' Comparing top 5 Universities in Asia and Latin America
+  6b) University rankings - Comparing top 5 Universities in Asia and Latin America
+  6c) Economical level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America
+  6d) Personality traits - Brief citing from articles, currently I haven't found data to make charts.
+
+**RESOLUTION**
+ 8) In the end, Latinx rates are growing. Line chart. :)
+ 9) But, Affirmation action possible consequences? :(
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -38,21 +48,28 @@ I hope this research sheds some light on this controversial topic. While talking
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
 
-Text here...
+## Census
+<href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">US population ethnicity</href>
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+## University diversity status
+<href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</href>
+<href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</href>
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+## Educational levels
+<href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">'Educational Attainment, at least Bachelor's or equivalent'</href>
+
+## Economical levels
+<href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Gini index</href> 
+
+## University ranking
+<href="https://www.topuniversities.com/universities/asia?region=[4009]&sorting=[rankings_htol]" target="_blank">QS Worldwide ranking - Comparing top 5 Universities in Asia and Latin America </href>
+
 
 # Method and medium
 > I'm going to use Shorthand and create some mood boards in figma or Canvas and user personas on Hubspot (with 'Make my persona' tool).
 
 # Initial Feedback
 
-<img src="docs/assets/initial-feedback-part-1.png" width="800px">
+<img src="docs/assets/initial-feedback-part-1.pneg" width="800px">
