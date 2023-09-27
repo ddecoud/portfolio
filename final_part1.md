@@ -1,9 +1,20 @@
 | [home page](README.md) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1) |
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+
+Since I came, I have kept wondering why there are no Latinxs on Campus. This uncertainty scares me a bit. CMU is one of the top Tech Schools in the world, so is this reality the same across every top tech school in the USA? Technology is ruling the world, and the trend is going upward. Are we Latinxs falling behind the power that rules the world in any sense? If our future leaders are not going to the top schools, will our power and economic strength suffer in the long term? Is the Latin American political and economic crisis what we should blame? Or are we the Latinxs in ourselves that we are not giving our best to be here at the world's top tech schools?
+
+All those questions come to mind while I go through the Campus corridors. Because, even if you don't believe these are the best schools in the world, we are missing a party everyone else seems to be invited to.
+
+So, with this project, I aim to solve this mystery. I will analyze the database from the top tech universities in the US to understand if there is a pattern of a small Latinx community. Then, I will take the largest ethnic population and compare and contrast it with Latinxs across several metrics.
+
+I will also review, compare and contrast:
+* Latinx traits and personality. 
+* Results of SAT testing.
+* GDP and Gini indexes.
+* Top universities.
+
+I hope this research sheds some light on this controversial topic. While talking with my peers, I realized this is a reality that many of us question. It seems to be an alarming truth we should face as soon as possible.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
