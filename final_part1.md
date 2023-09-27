@@ -69,8 +69,8 @@ Text here...
 
 
 # Method and medium
-> I'm going to use Shorthand and create some mood boards in figma or Canvas and user personas on Hubspot (with 'Make my persona' tool).
+I'm going to use Shorthand and create some mood boards in figma or Canvas and user personas on Hubspot (with 'Make my persona' tool).
 
 # Initial Feedback
 
-<img src="docs/assets/initial-feedback-part-1.pneg" width="800px">
+<img src="docs/assets/Initial-feedback-part-1.jpeg" width="800px">
