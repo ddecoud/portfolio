@@ -39,7 +39,7 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> I'm going to use Shorthand and create some mood boards in figma or Canvas and user personas on Hubspot (Make my persona tool).
+> I'm going to use Shorthand and create some mood boards in figma or Canvas and user personas on Hubspot (with 'Make my persona' tool).
 
 # Initial Feedback
 
