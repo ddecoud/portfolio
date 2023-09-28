@@ -2,7 +2,7 @@
 
 # Outline
 
-Since I came, I have kept wondering why there are no Latinxs on Campus. This uncertainty scares me a bit. CMU is one of the top Tech Schools in the world, so is this reality the same across every top tech school in the USA? Technology is ruling the world, and the trend is going upward. Are we Latinxs falling behind the power that rules the world in any sense? If our future leaders are not going to the top schools, will our power and economic strength suffer in the long term? Is the Latin American political and economic crisis what we should blame? Or are we the Latinxs in ourselves that we are not giving our best to be here at the world's top tech schools?
+I have been wondering why there are no Latinxs on Campus since I came. As technology continues evoluting and ruling the world, it would be wise for countries to train their people accordingly. CMU is one of the top Tech Schools in the world, and although its full of international students, the Latino population is extremely small. I wonder if this is the same across every top tech school in the USA? Are we Latinxs, in any sense, falling behind the power that is going to rule the world? If our future leaders are not going to the top schools, will our power and economic strength suffer in the long term? Is the Latin American political and economic crisis what we should blame? Or are we the Latinxs in ourselves that we are not giving our best to be here at the world's top tech schools?
 
 All those questions come to mind while I go through the Campus corridors. Because, even if you don't believe these are the best schools in the world, we are missing a party everyone else seems to be invited to.
 
