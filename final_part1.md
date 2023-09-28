@@ -12,17 +12,17 @@ I will also review, compare and contrast:
 * Educational level
 * Gini indexes.
 * Top universities.
-* * Latinx traits and personality. (Only information from articles).
+* Latinx traits and personality. (Only information from articles).
 
 I hope this research sheds some light on this controversial topic. While talking with my peers, I realized this is a reality that many of us question. It seems to be an alarming truth we should face as soon as possible.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 
 # My project structure
 
 <img src="docs/assets/Project-flow.jpeg" width="800px">
 
-**SETUP** 
+**SETUP**
+
 1) Diversity at CMU
 * General chart of diversity at CMU - We all know CMU is highly international.
 * Population in the US. Latinxs is the second biggest population of the US - Chart
@@ -40,7 +40,8 @@ I hope this research sheds some light on this controversial topic. While talking
 * Personality traits - Brief citing from articles, currently I haven't found data to make charts.
 
 **RESOLUTION**
- 1) In the end, Latinx rates are growing. Line chart. :)
+
+ 1) In the end, Latinx rates are growing. Line chart. :)<br>
  2) But, Affirmative action possible consequences? :(
 
 ## Initial sketches
