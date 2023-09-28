@@ -25,13 +25,13 @@ I hope this research sheds some light on this controversial topic. While talking
 **SETUP**
 
 1) Diversity at CMU
-* General chart of diversity at CMU - We all know CMU is highly international.
-* Population in the US. Latinxs is the second biggest population of the US - Chart
+* General chart of diversity at CMU (Pie chart) -> We all know CMU is highly international.
+* Population in the US (metaphorical chart) -> Latinxs are the second biggest population of the US.
   
 **CONFLICT** 
 
+2) First chart - expected diversity vs. actual diversity at CMU<br>
 1) Title and open-ended question with closing (reveal technique)<br>
-2) First chart - actual diversity at CMU<br>
 3) Explaining why I decided to check another Tech university rates<br>
 4) 3 major tech university charts compared<br>
 5) Explaining other potential reasons<br>
@@ -42,8 +42,8 @@ I hope this research sheds some light on this controversial topic. While talking
 
 **RESOLUTION**
 
- 1) In the end, Latinx rates are growing. Line chart. :)<br>
- 2) But, Affirmative action possible consequences? :(
+ 1) In the end, Latinx rates are growing. (Line chart). :)<br>
+ 2) But, Affirmative action possible consequences? (Text explanation) :(
 
 ## Initial sketches
 
@@ -56,22 +56,26 @@ I hope this research sheds some light on this controversial topic. While talking
 * I'm going to do more user research to understand if the geographical is better than the bar chart.
 
 # The data
-I am planning to start describing how Latinxs are one of the biggest ethnic groups at the US right now and contrasting them with Asians. Next, I am going to show how that trend is the opposite at Tech Universities current master's students. After that, I am going to get more deep in the topic, trying to understand correlations between the foreign countries statistics of selected Asian and Latin countries, and the low quantity of Latinxs (American citizens who consider themselves Latinxs) pursuing a Master's degree at a top Tech university. Finally, I am going to show how the trend is growing for Latinxs pursuing a degree, and explain how the Affirmative action can have consequences in this growing trend.
 
-## Census
+1) I am planning to start describing how Latinxs are one of the biggest ethnic groups at the US right now and contrasting them with Asians.
+2) Next, I am going to show how that trend is the opposite at Tech Universities current master's students.
+3) After that, I am going to get more deep in the topic, trying to understand correlations between the foreign countries statistics of selected Asian and Latin countries, and the low quantity of Latinxs (American citizens who consider themselves Latinxs) pursuing a Master's degree at a top Tech university.
+4) Finally, I am going to show how the trend is growing for Latinxs pursuing a degree, and explain how the Affirmative action can have consequences in this growing trend.
+
+### Census
 <a href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">Census</a> - US population ethnicity
 
-## University diversity status
+### University diversity status
 <a href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</a><br>
 <a href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</a>
 
-## Educational levels
+### Educational levels
 <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">World Bank dataset</a> - Comparing 'Educational Attainment, at least Bachelor's or equivalent' in selected countries.
 
-## Economical levels
+### Economical levels
 <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Gini index</a> - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America.
 
-## University ranking
+### University ranking
 <a href="https://www.topuniversities.com/universities/asia?region=[4009]&sorting=[rankings_htol]" target="_blank">QS Worldwide ranking</a> - Comparing top 5 Universities in Asia and Latin America 
 
 
