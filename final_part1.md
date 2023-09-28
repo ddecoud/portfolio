@@ -34,7 +34,7 @@ I hope this research sheds some light on this controversial topic. While talking
 3) Explaining why I decided to check another Tech university rates
 4) 3 major tech university charts compared
 5) Explaining other potential reasons
-* Educational level - 'Educational Attainment, at least Bachelor's or equivalent' Comparing top 5 Universities in Asia and Latin America
+* Educational level - 'Educational Attainment, at least Bachelor's or equivalent' Comparing selected countries.
 * University rankings - Comparing top 5 Universities in Asia and Latin America
 * Economical level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America.
 * Personality traits - Brief citing from articles, currently I haven't found data to make charts.
