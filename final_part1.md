@@ -46,13 +46,13 @@ I hope this research sheds some light on this controversial topic. While talking
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-<img src="docs/assets/draft2.png" width="300px">
-<img src="docs/assets/draft3.png" width="300px">
-<img src="docs/assets/draft9.png" width="300px">
-<img src="docs/assets/draft6.png" width="300px">
-<img src="docs/assets/draft5.png" width="300px">
-<img src="docs/assets/draft7.png" width="300px">
-<img src="docs/assets/draft8.png" width="300px">
+<img src="docs/assets/draft2.jpeg" width="300px">
+<img src="docs/assets/draft3.jpeg" width="300px">
+<img src="docs/assets/draft9.jpeg" width="300px">
+<img src="docs/assets/draft6.jpeg" width="300px">
+<img src="docs/assets/draft5.jpeg" width="300px">
+<img src="docs/assets/draft7.jpeg" width="300px">
+<img src="docs/assets/draft8.jpeg" width="300px">
 
 # The data
 I am planning to start describing how Latinxs are one of the biggest ethnic groups at the US right now and contrasting them with Asians. Next, I am going to show how that trend is the opposite at Tech Universities current master's students. After that, I am going to get more deep in the topic, trying to understand correlations between the foreign countries statistics of selected Asian and Latin countries, and the low quantity of Latinxs (American citizens who consider themselves Latinxs) pursuing a Master's degree at a top Tech university. Finally, I am going to show how the trend is growing for Latinxs pursuing a degree, and explain how the Affirmative action can have consequences in this growing trend.
