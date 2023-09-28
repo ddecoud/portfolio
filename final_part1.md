@@ -8,13 +8,12 @@ A lot of questions come to mind while I go through the Campus corridors. I wonde
 
 >We are missing a party everyone else seems to be invited to.
 
-So, with this project, I aim to solve this mystery. I will analyze the database from the top tech universities in the US to understand if there is a pattern of a small Latinx community. Then, I will take the largest ethnic population and compare and contrast it with Latinxs across several metrics.
+With this project, I aim to solve this mystery. I will analyze the database from the top tech universities in the US to understand if there is a pattern of a small Latinx community. Then, I will take the largest ethnic population and compare and contrast it with Latinxs across several metrics such as:
 
-I will also review, compare and contrast:
 * Educational level
 * Gini indexes.
 * Top universities.
-* Latinx traits and personality. (Only information from articles).
+* Personality traits. (Only information from articles).
 
 I hope this research sheds some light on this controversial topic. While talking with my peers, I realized this is a reality that many of us question. It seems to be an alarming truth we should face as soon as possible.
 
