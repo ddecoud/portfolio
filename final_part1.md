@@ -48,6 +48,7 @@ I hope this research sheds some light on this controversial topic. While talking
 # Initial sketches
 
 * I'm going to do more user research to understand if the geographical is better than the bar chart.
+* I'm planning to do the same charts for Gini index and Educational achievements.
 
 <img src="docs/assets/draft2.jpeg" width="300px"><img src="docs/assets/draft3.jpeg" width="300px">
 <img src="docs/assets/draft9.jpeg" width="300px"><img src="docs/assets/draft6.jpeg" width="300px">
