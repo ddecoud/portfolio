@@ -58,10 +58,10 @@ I hope this research sheds some light on this controversial topic. While talking
 
 # The data
 
-1) I am planning to start describing how Latinxs are one of the biggest ethnic groups at the US right now and contrasting them with Asians.
-2) Next, I am going to show how that trend is the opposite at Tech Universities current master's students.
-3) After that, I am going to get more deep in the topic, trying to understand correlations between the foreign countries statistics of selected Asian and Latin countries, and the low quantity of Latinxs (American citizens who consider themselves Latinxs) pursuing a Master's degree at a top Tech university.
-4) Finally, I am going to show how the trend is growing for Latinxs pursuing a degree, and explain how the Affirmative action can have consequences in this growing trend.
+1) I am planning to start describing how Latinxs are one of the biggest ethnic groups at the US right now and contrasting them with Asians.<br>
+2) Next, I am going to show how that trend is the opposite at Tech Universities current master's students.<br>
+3) After that, I am going to get more deep in the topic, trying to understand correlations between the foreign countries statistics of selected Asian and Latin countries, and the low quantity of Latinxs (American citizens who consider themselves Latinxs) pursuing a Master's degree at a top Tech university.<br>
+4) Finally, I am going to show how the trend is growing for Latinxs pursuing a degree, and explain how the Affirmative action can have consequences in this growing trend.<br>
 
 ### Census
 <a href="https://www.census.gov/quickfacts/fact/table/US/RHI725222" target="_blank">Census</a> - US population ethnicity
