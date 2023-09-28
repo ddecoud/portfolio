@@ -49,7 +49,7 @@ I hope this research sheds some light on this controversial topic. While talking
 
 <img src="docs/assets/draft2.jpeg" width="300px"><img src="docs/assets/draft3.jpeg" width="300px">
 <img src="docs/assets/draft9.jpeg" width="300px"><img src="docs/assets/draft6.jpeg" width="300px">
-<img src="docs/assets/draft5.jpeg" width="300px"><img src="docs/assets/draft7.jpeg" width="300px">
+<img src="docs/assets/draft10.jpeg" width="300px"><img src="docs/assets/draft7.jpeg" width="300px">
 <img src="docs/assets/draft8.jpeg" width="300px">
 
 # The data
