@@ -47,13 +47,13 @@ I hope this research sheds some light on this controversial topic. While talking
 
 ## Initial sketches
 
+* I'm going to do more user research to understand if the geographical is better than the bar chart.
 
 <img src="docs/assets/draft2.jpeg" width="300px"><img src="docs/assets/draft3.jpeg" width="300px">
 <img src="docs/assets/draft9.jpeg" width="300px"><img src="docs/assets/draft6.jpeg" width="300px">
 <img src="docs/assets/draft10.jpeg" width="300px"><img src="docs/assets/draft7.jpeg" width="300px">
 <img src="docs/assets/draft8.jpeg" width="300px">
 
-* I'm going to do more user research to understand if the geographical is better than the bar chart.
 
 # The data
 
@@ -84,4 +84,4 @@ I'm going to use Shorthand and create some mood boards in figma or Canvas and us
 
 # Initial Feedback
 
-<img src="docs/assets/Initial-feedback-part-1.jpeg" width="800px">
+<img src="docs/assets/Initial-feedback-part-1.jpeg" width="600px">
