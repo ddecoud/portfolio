@@ -9,10 +9,10 @@ All those questions come to mind while I go through the Campus corridors. Becaus
 So, with this project, I aim to solve this mystery. I will analyze the database from the top tech universities in the US to understand if there is a pattern of a small Latinx community. Then, I will take the largest ethnic population and compare and contrast it with Latinxs across several metrics.
 
 I will also review, compare and contrast:
-* Latinx traits and personality. 
-* Results of SAT testing.
-* GDP and Gini indexes.
+* Educational level
+* Gini indexes.
 * Top universities.
+* * Latinx traits and personality. (Only information from articles).
 
 I hope this research sheds some light on this controversial topic. While talking with my peers, I realized this is a reality that many of us question. It seems to be an alarming truth we should face as soon as possible.
 
@@ -44,7 +44,7 @@ I hope this research sheds some light on this controversial topic. While talking
  2) But, Affirmative action possible consequences? :(
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+
 
 <img src="docs/assets/draft2.jpeg" width="300px"><img src="docs/assets/draft3.jpeg" width="300px">
 <img src="docs/assets/draft9.jpeg" width="300px"><img src="docs/assets/draft6.jpeg" width="300px">
