@@ -67,8 +67,8 @@ I hope this research sheds some light on this controversial topic. While talking
 
 ### University diversity status
 <a href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</a><br>
-<a href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</a>
-<a href="https://facts.mit.edu/enrollment-statistics/" target="_blank">MIT</a>
+<a href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</a><br>
+<a href="https://facts.mit.edu/enrollment-statistics/" target="_blank">MIT</a><br>
 <a href="https://grad.berkeley.edu/admissions/choose-berkeley/rankings-stats/#panel-1-2" target="_blank">Berkeley</a>
 
 
