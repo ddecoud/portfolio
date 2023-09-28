@@ -45,7 +45,7 @@ I hope this research sheds some light on this controversial topic. While talking
  1) In the end, Latinx rates are growing. (Line chart). :)<br>
  2) But, Affirmative action possible consequences? (Text explanation) :(
 
-## Initial sketches
+# Initial sketches
 
 * I'm going to do more user research to understand if the geographical is better than the bar chart.
 
@@ -68,6 +68,9 @@ I hope this research sheds some light on this controversial topic. While talking
 ### University diversity status
 <a href="https://www.cmu.edu/ira/Enrollment/pdf/fall-2022-pdfs/total-university-enrollment_ems-2.8.2023.pdf" target="_blank">CMU</a><br>
 <a href="https://drive.google.com/file/d/1x2DELfVgnZbgTsBbHmF0xZCGQusjDqv3/view" target="_blank">Stanford</a>
+<a href="https://facts.mit.edu/enrollment-statistics/" target="_blank">MIT</a>
+<a href="https://grad.berkeley.edu/admissions/choose-berkeley/rankings-stats/#panel-1-2" target="_blank">Berkeley</a>
+
 
 ### Educational levels
 <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">World Bank dataset</a> - Comparing 'Educational Attainment, at least Bachelor's or equivalent' in selected countries.
