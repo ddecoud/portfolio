@@ -2,9 +2,11 @@
 
 # Outline
 
-I have been wondering why there are no Latinxs on Campus since I came. As technology continues evoluting and ruling the world, it would be wise for countries to train their people accordingly. CMU is one of the top Tech Schools in the world, and although its full of international students, the Latino population is extremely small. I wonder if this is the same across every top tech school in the USA? Are we Latinxs, in any sense, falling behind the power that is going to rule the world? If our future leaders are not going to the top schools, will our power and economic strength suffer in the long term? Is the Latin American political and economic crisis what we should blame? Or are we the Latinxs in ourselves that we are not giving our best to be here at the world's top tech schools?
+I have been wondering why there are no Latinxs on Campus since I came. As technology continues evoluting and ruling the world, it would be wise for countries to train their people accordingly. CMU is one of the top Tech Schools in the world, and although its full of international students, the Latino population is extremely small. 
 
-All those questions come to mind while I go through the Campus corridors. Because, even if you don't believe these are the best schools in the world, we are missing a party everyone else seems to be invited to.
+A lot of questions come to mind while I go through the Campus corridors. I wonder if this is the same across every top tech school in the USA? Are we Latinxs, in any sense, falling behind the power that is going to rule the world? If our future leaders are not going to the top schools, will our power and economic strength suffer in the long term? Is the Latin American political and economic crisis what we should blame? Or are we the Latinxs in ourselves that we are not giving our best to be here at the world's top tech schools?
+
+We are missing a party everyone else seems to be invited to.
 
 So, with this project, I aim to solve this mystery. I will analyze the database from the top tech universities in the US to understand if there is a pattern of a small Latinx community. Then, I will take the largest ethnic population and compare and contrast it with Latinxs across several metrics.
 
