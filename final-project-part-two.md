@@ -1,9 +1,24 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part1) | [final project II](final-project-part-two) 
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+I found Shorthand extremely useful to tell my story. While presenting my initial Shorthand draft to my peers at class I got really good feedback about reorganizing my story. So I changed it 
+
+# Charts
+
+As we have talked about being cautious while using **pie charts**, I wanted to explain my choice of one for my first chart. As the difference between international and national graduate students is extremely notorious, the pie chart clearly transmit that ilusion. While I presented the pie chart to all my interviewees, they'll exclamated 'wow' each time, and that's the effect I want to create on them for anticipation, because then my topic is digging deeper on the opposite way, so the shock is going to be stronger.
+
+For the population chart, I chose the **icon map**, because it was a creative way of generating engagement in the audience, and also it's easily associated with population.
+
+Next, I decided to do a simple **bar chart** for the Universities, because here I am stating my problem and I want my point to be straightfowrard.
+
+I started from a personal length, and now I wanted to expand a bit talking about other student's opinion on diversity at the University. I selected a varied sample of different ethnicities and asked them to posisionate themselves in the first day they were getting to CMU, and to think what were their feelings towards diversity. The responses were quite interesting, so I made an **infogram.** 
+
+For my universities comparisson, I used multiple column charts/stacked charts.
+
+Next, as I digged deeper in the problems, I knew the topic could get a little boring because of the amount of information. So i decided to do an animation with two maps, two showcase different metrics as the Gini index and educational attainment.
+
+I made another **infogram** for the Universities ranking, as I think is an attractive way to compare information and make it stand out.
 
 # User research 
 
@@ -33,7 +48,8 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| 1) Aesthetics in charts | Making certain changes 
+                            in infographic charts                                 |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
