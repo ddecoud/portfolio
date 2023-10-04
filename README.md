@@ -25,3 +25,5 @@ As a Product Manager, data is one of my core assets when making product decision
 
 [Final project: Part 1](final_part1.md)<br>
 
+[Final project: Part 2](final-project-part-two.md)<br>
+
