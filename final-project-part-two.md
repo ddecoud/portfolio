@@ -1,5 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part1) | [final project II](final-project-part-two) 
 
+<link href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Shorthand</link>
+
 # Wireframes / storyboards
 
 I found Shorthand extremely useful to tell my story. While presenting my initial Shorthand draft to my peers at class I got really good feedback about reorganizing my story. So I changed it 
