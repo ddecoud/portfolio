@@ -103,9 +103,6 @@ Second, get feedback about my structure, aesthetics and charts.
 
 # Identified changes for Part III 
 
-* 
-* 
-* 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
