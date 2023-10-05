@@ -38,7 +38,6 @@ My aim for the interviews were first understand if I was fulfilling my personal 
 
 Second, get feedback about my structure, aesthetics and charts.
 
-Text here!
 
 | Goal                            | Questions to Ask                                            |
 |---------------------------------|----------------------------------------------------------   |                       
@@ -55,25 +54,7 @@ Text here!
 
 
 
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-1) Aesthetics in charts
-   - Making certain changes in infographic charts, to make them stand out more. (implemented)
-
-2) What did you like?
-   - Data is shocking.
-   - The explanation about Affirmative Action.
-3) What didn't you like?
-   - Infographics' aesthetic. In the ranking infographic, I don't understand that you are contrasting two regions, it's too confusing.
-4) Any other comments?
-   - The data was so shocking that it made me want to act somehow.
-
-
 
 | Questions                        | Interview 1 - Latinx - CMU Graduate Student                         
 |----------------------------------|----------------------------------------------------------------           
@@ -123,7 +104,9 @@ Text here!
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+* Improve the infographics aesthetic, and make them stand out. Clarify the ranking infographic to make it more contrasting.
+* Continue reorganizing the structure of the story to make it more compelling.
+* 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -135,7 +118,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+
 
 # Color palettes
 
