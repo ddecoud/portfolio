@@ -72,46 +72,45 @@ Second, get feedback about my structure, aesthetics and charts.
 
 | Questions                        | Interview 2                           
 |----------------------------------|----------------------------------------------------------------           
-| What excited you the most?       | The data is extremely interesting.
+| What excited you the most?       | 'The data is extremely interesting.'
 |                                  |
-| What resonated with you the most?| I think 'Asians' as an ethnicity is too<br> broad, because I feel I'm also underepresented and I'm from Southeast Asia. But I'm interested in the topic.
+| What resonated with you the most?| 'I think 'Asians' as an ethnicity is too<br> broad, because I feel I'm also underepresented and I'm from Southeast Asia. But I'm interested in the topic.'
 |                                  |
-| What would you change?           | The structure of the story is a bit confusing.<br> I would reorganize it. Also, I would stick only to the Gini index and not the educational attainment nor the rankings.
+| What would you change?           | 'The structure of the story is a bit confusing.<br> I would reorganize it. Also, I would stick only to the Gini index and not the educational attainment nor the rankings.'
 |                                  | 
-| Affirmative action reaction?     |  It was wrong, I think it's interesting to<br> understand how we are going to make it better now
+| Affirmative action reaction?     |  'It was wrong, I think it's interesting to<br> understand how we are going to make it better now'
 |                                  | 
-| What made you curious and<br>which would be your next<br>steps if any? |  The CMU resources, I didn't know there were actions being taken.                 
+| What made you curious and<br>which would be your next<br>steps if any? |  'The CMU resources, I didn't know there were actions being taken.'                 
 |                                  |                                                        |   
 |                                  |
 
 | Questions                        | Interview 3                         
 |----------------------------------|----------------------------------------------------------------           
-| What excited you the most?       | 
+| What excited you the most?       | 'The graphs depicting diversity'
 |                                  |
-| What resonated with you the most?| 
+| What resonated with you the most?| 'Educational attainment by country'
 |                                  |
-| What would you change?           | 
+| What would you change?           | -
 |                                  | 
-| Affirmative action reaction?     |  
+| Affirmative action reaction?     |  'Good to describe it as “wicked” problem, but does your audience know this design term? If so, then ok.'
 |                                  | 
-| What made you curious and<br>which would be your next<br>steps if any? |                   
+| What made you curious and<br>which would be your next<br>steps if any? | 'It was interesting to learn about rankings as a potential reason for lack of diversity, but I am not sure what step to take next.'               
 |                                  |                                                        |   
 |                                  |
 
 
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+# Identified changes for Part III 
 
 * Improve the infographics aesthetic, and make them stand out. Clarify the ranking infographic to make it more contrasting.
-* Continue reorganizing the structure of the story to make it more compelling.
+* 
 * 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
+| Lack of information of what steps to take after seeing this | Focusing more on the call to actions, give more options, do more interviews with key stakeholders of diversity (admissions, 'The center', etc.) |
+|                                          |                                                                           Structure is not compelling enough, and it's mixing | Continue reorganizing the structure of the story to make it more compelling. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
