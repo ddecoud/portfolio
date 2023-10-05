@@ -122,7 +122,5 @@ Second, get feedback about my structure, aesthetics and charts.
 
 # Color palettes
 
-<!-- Coolors Palette Widget -->
-      <script src="https://coolors.co/palette-widget/widget.js"></script>
-      <script data-id="0423819015696852">new CoolorsPaletteWidget("0423819015696852", ["bfb48f","f2efe9","a42323","252627","14080e"]); </script>
+
 
