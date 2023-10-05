@@ -72,15 +72,15 @@ Second, get feedback about my structure, aesthetics and charts.
 
 | Questions                        | Interview 2                           
 |----------------------------------|----------------------------------------------------------------           
-| What excited you the most?       | 
+| What excited you the most?       | The data is extremely interesting.
 |                                  |
-| What resonated with you the most?| 
+| What resonated with you the most?| I think 'Asians' as an ethnicity is too<br> broad, because I feel I'm also underepresented and I'm from Southeast Asia. But I'm interested in the topic.
 |                                  |
-| What would you change?           | 
+| What would you change?           | The structure of the story is a bit confusing.<br> I would reorganize it. Also, I would stick only to the Gini index and not the educational attainment nor the rankings.
 |                                  | 
-| Affirmative action reaction?     |  
+| Affirmative action reaction?     |  It was wrong, I think it's interesting to<br> understand how we are going to make it better now
 |                                  | 
-| What made you curious and<br>which would be your next<br>steps if any? |                   
+| What made you curious and<br>which would be your next<br>steps if any? |  The CMU resources, I didn't know there were actions being taken.                 
 |                                  |                                                        |   
 |                                  |
 
