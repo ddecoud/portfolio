@@ -23,20 +23,35 @@ I made another **infogram** for the Universities ranking, as I think is an attra
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My story is personal. But, as the saying goes, the personal becomes political. So my main goal is to gather the atention, first and foremost of the Latinx comunity at CMU, but also of every student at the University. Because it's an issue that should worry us all. 
+
+Second, I would also want to transmit my message to the admissions department at CMU, as they are the main stakeholder in increasing Latinx presence at Campus.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+
+My aim for the interviews were first understand if I was fulfilling my personal goals with this project:
+* Understand if the topic was compelling to everyone. I am a Latinx and I felt strongly the lack of latinxs at Campus, so I might be biased toward the importance of the topic.
+* Check if the 'Affirmative Action' is interesting for the audience and doesn't generate negative reactions.
+* Make the audience want to participate in solving this issue.
+* Generate highs and lows in the audience's emotions.
+
+Second, get feedback about my structure, aesthetics and charts.
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goal                            | Questions to Ask                                         |
+|---------------------------------|----------------------------------------------------------|                       
+| Compelling topic and story?     | What excited you the most?                               |
+|                                 | What resonated with you the most?                        |
+|                                 | What surprised you?                                      |
+|                                 | What would you change?                                   |
+| Affirmative action reaction?    | Check their reaction and ask them how they feel with it? |
+|                                 |                                                          |
+| Make the audience want to       | What made you curious?                                   |
+| participate in solving          |                                                          |
+| this issue                      |                                                          |
+
 
 
 Text here!
@@ -46,12 +61,24 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| 1) Aesthetics in charts | Making certain changes 
-                            in infographic charts                                 |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+1) Aesthetics in charts
+   - Making certain changes in infographic charts, to make them stand out more. (implemented)
+
+2) What did you like?
+   - Data is shocking.
+   - The explanation about Affirmative Action.
+3) What didn't you like?
+   - Infographics' aesthetic. In the ranking infographic, I don't understand that you are contrasting two regions, it's too confusing.
+4) Any other comments?
+   - The data was so shocking that it made me want to act somehow.
+
+
+
+| Questions               | Interview 1 (briefly describe)               | Interview 2 | Interview 3 |
+|-------------------------|----------------------------------------------|-------------|-------------|
+| 1) Aesthetics in charts | Making certain changes in infographic charts.|                                            |                         |
+|                         |                                              |             |             |
+|                         |                                              |             |             |
 
 
 # Identified changes for Part III
