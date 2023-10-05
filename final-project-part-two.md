@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part1) | [final project II](final-project-part-two) 
+| [home page](README.md) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1) | [final project II](final-project-part-two) 
 
 <a href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Shorthand</a>
 
