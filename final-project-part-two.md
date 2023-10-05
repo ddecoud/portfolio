@@ -79,8 +79,8 @@ Text here!
 |-------------------------         |----------------------------------------------           |-------------|-------------|
 | What excited you the most?       | The information the story has,<br> the data showcased.
 | What resonated with you the most?| The low percentage of Latinxs was shocking
-| What would you change?           | Aesthetics in infographics, the infographic about<br> 
-|                                  | university rankings is not clear enough.
+| What would you change?           | Aesthetics in infographics, the infographic about<br>university rankings is not clear enough.
+|                                  | 
 |                                  |
 | Affirmative action reaction?     | It was really interesting to understand more on<br>
 |                                  | the topic. Now I want to do more research about it.
