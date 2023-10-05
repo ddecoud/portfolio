@@ -75,23 +75,48 @@ Text here!
 
 
 
-| Questions                        | Interview 1 (briefly describe)                          | Interview 2 | Interview 3 |
-|-------------------------         |----------------------------------------------           |-------------|-------------|
+| Questions                        | Interview 1 - Latinx - CMU Graduate Student                         
+|----------------------------------|----------------------------------------------------------------           
 | What excited you the most?       | The information the story has,<br> the data showcased.
+|                                  |
 | What resonated with you the most?| The low percentage of Latinxs was shocking
-| What would you change?           | Aesthetics in infographics, the infographic about<br>university rankings is not clear enough.
+|                                  |
+| What would you change?           | Aesthetics in infographics, the infographic about<br>university rankings is not clear  enough. 
 |                                  | 
-|                                  |
-| Affirmative action reaction?     | It was really interesting to understand more on<br>
-|                                  | the topic. Now I want to do more research about it.
-|                                  |
-| What made you curious and<br>    |
-| which would be your next<br>     |
-| steps if any?                    |
+| Affirmative action reaction?     | It was really interesting to understand more on<br>the topic. Now I want to do more research about it. 
+|                                  | 
+| What made you curious and<br>which would be your next<br>steps if any? | To research more about the disparty of US population and CMU population                   
 |                                  |                                                        |   
 |                                  |
 
-1)    Making certain changes in infographic charts. 
+| Questions                        | Interview 2                           
+|----------------------------------|----------------------------------------------------------------           
+| What excited you the most?       | 
+|                                  |
+| What resonated with you the most?| 
+|                                  |
+| What would you change?           | 
+|                                  | 
+| Affirmative action reaction?     |  
+|                                  | 
+| What made you curious and<br>which would be your next<br>steps if any? |                   
+|                                  |                                                        |   
+|                                  |
+
+| Questions                        | Interview 3                         
+|----------------------------------|----------------------------------------------------------------           
+| What excited you the most?       | 
+|                                  |
+| What resonated with you the most?| 
+|                                  |
+| What would you change?           | 
+|                                  | 
+| Affirmative action reaction?     |  
+|                                  | 
+| What made you curious and<br>which would be your next<br>steps if any? |                   
+|                                  |                                                        |   
+|                                  |
+
 
 
 
@@ -112,8 +137,9 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Color palettes
 
-Text here!
+<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="0423819015696852">new CoolorsPaletteWidget("0423819015696852", ["bfb48f","f2efe9","a42323","252627","14080e"]); </script>
 
