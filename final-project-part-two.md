@@ -122,5 +122,7 @@ Second, get feedback about my structure, aesthetics and charts.
 
 # Color palettes
 
+<img src="docs/assets/image1.png" width="300px"> 
+
 
 
