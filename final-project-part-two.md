@@ -40,17 +40,18 @@ Second, get feedback about my structure, aesthetics and charts.
 
 Text here!
 
-| Goal                            | Questions to Ask                                         |
-|---------------------------------|----------------------------------------------------------|                       
-| Compelling topic and story?     | What excited you the most?                               |
-|                                 | What resonated with you the most?                        |
-|                                 | What surprised you?                                      |
-|                                 | What would you change?                                   |
-| Affirmative action reaction?    | Check their reaction and ask them how they feel with it? |
-|                                 |                                                          |
-| Make the audience want to       | What made you curious?                                   |
-| participate in solving          |                                                          |
-| this issue                      |                                                          |
+| Goal                            | Questions to Ask                                            |
+|---------------------------------|----------------------------------------------------------   |                       
+| Compelling topic and story?     | What excited you the most?                                  |
+|                                 | What resonated with you the most?                           |
+|                                 | What surprised you?                                         |
+|                                 | What would you change?                                      |
+| Affirmative action reaction?    | Check their reaction and ask them how they feel with it?    |
+|                                 |                                                             |
+| Make the audience want to<br>   | What made you curious and which would be your next steps<br>|
+| participate in solving<br>      | if any?                                                     |
+| this issue                      |                                                             |
+|                                 |                                                             |
 
 
 
@@ -74,11 +75,24 @@ Text here!
 
 
 
-| Questions               | Interview 1 (briefly describe)               | Interview 2 | Interview 3 |
-|-------------------------|----------------------------------------------|-------------|-------------|
-| 1) Aesthetics in charts | Making certain changes in infographic charts.|                                            |                         |
-|                         |                                              |             |             |
-|                         |                                              |             |             |
+| Questions                        | Interview 1 (briefly describe)                          | Interview 2 | Interview 3 |
+|-------------------------         |----------------------------------------------           |-------------|-------------|
+| What excited you the most?       | The information the story has,<br> the data showcased.
+| What resonated with you the most?| The low percentage of Latinxs was shocking
+| What would you change?           | Aesthetics in infographics, the infographic about<br> 
+|                                  | university rankings is not clear enough.
+|                                  |
+| Affirmative action reaction?     | It was really interesting to understand more on<br>
+|                                  | the topic. Now I want to do more research about it.
+|                                  |
+| What made you curious and<br>    |
+| which would be your next<br>     |
+| steps if any?                    |
+|                                  |                                                        |   
+|                                  |
+
+1)    Making certain changes in infographic charts. 
+
 
 
 # Identified changes for Part III
