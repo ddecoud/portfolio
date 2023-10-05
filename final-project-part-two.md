@@ -103,21 +103,19 @@ Second, get feedback about my structure, aesthetics and charts.
 
 # Identified changes for Part III 
 
-* Improve the infographics aesthetic, and make them stand out. Clarify the ranking infographic to make it more contrasting.
+* 
 * 
 * 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Lack of information of what steps to take after seeing this | Focusing more on the call to actions, give more options, do more interviews with key stakeholders of diversity (admissions, 'The center', etc.) |
-|                                          |                                                                           Structure is not compelling enough, and it's mixing | Continue reorganizing the structure of the story to make it more compelling. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|                                          |
+| Structure is not compelling enough, and it's mixing | Continue reorganizing the structure of the story to make it more compelling. |
+|                                          | 
+| Infographics are not clear enough | Improve the infographics aesthetic, and make them stand out. Clarify the ranking infographic to make it more contrasting. |                                                                                                                   
 
-> ...include any final thoughts you have here. 
-
-
+* On a final note, I think I'm on the right track. I need to continue doing interviews, and focusing more on the outcomes. What is going to be the achievable next step for students to do something about this interesting issue?
 
 # Color palettes
 
