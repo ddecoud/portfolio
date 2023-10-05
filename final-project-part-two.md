@@ -58,7 +58,7 @@ Second, get feedback about my structure, aesthetics and charts.
 
 ## Interview findings
 
-| Questions                        | Interview 1 - Latinx - CMU Graduate Student                         
+| Questions                        | Interview 1 - Latinx - 30s - CMU Graduate Student                         
 |----------------------------------|----------------------------------------------------------------           
 | What excited you the most?       | The information the story has,<br> the data showcased.
 |                                  |
@@ -72,7 +72,7 @@ Second, get feedback about my structure, aesthetics and charts.
 |                                  |                                                        |   
 |                                  |
 
-| Questions                        | Interview 2                           
+| Questions                        | Interview 2 - Asian - 30s - CMU Graduate Student                          
 |----------------------------------|----------------------------------------------------------------           
 | What excited you the most?       | 'The data is extremely interesting.'
 |                                  |
@@ -86,7 +86,7 @@ Second, get feedback about my structure, aesthetics and charts.
 |                                  |                                                        |   
 |                                  |
 
-| Questions                        | Interview 3                         
+| Questions                        | Interview 3 - Asian - 30s - CMU Phd                         
 |----------------------------------|----------------------------------------------------------------           
 | What excited you the most?       | 'The graphs depicting diversity'
 |                                  |
