@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part1) | [final project II](final-project-part-two) 
 
-<link href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Shorthand</link>
+<a href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Shorthand</a>
 
 # Wireframes / storyboards
 
