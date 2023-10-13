@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1) | [final project II](final-project-part-two) 
+| [home page](README.md) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-part1.md) | [final project II](final-project-part-two) 
 
 <a href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Shorthand</a>
 
