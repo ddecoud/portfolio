@@ -11,6 +11,9 @@ for all._
 
 As a curious, lifelong learner and due to my career and academic journey, I have received a Fulbright scholarship to pursue a Master's in Integrated Innovation for Products & Services at Carnegie Mellon University.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/daniela-decoud-colev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:daniela.decoud@gmail.com?subject=Hola,%20Daniela%20Decoud"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 # What I hope to learn
