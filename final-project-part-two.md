@@ -1,6 +1,8 @@
 | [home page](README.md) | [visualizing debt](government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final_part1.md) | [final project II](final-project-part-two.md)
 
-<a href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Shorthand</a>
+# Final project website
+
+Here there is a link to my project<a href='https://preview.shorthand.com/lpoNjDKQwfNvhE5L'>Diversity at Carnegie Mellon: Perspectives from a Latinx student</a>
 
 # Wireframes / Storyboards
 
