@@ -25,9 +25,9 @@ As a Product Manager, data is one of my core assets when making product decision
 
 [Critique by design](critique-by-design.md)<br>
 
-[Final project: Part 1](final_part1.md)<br>
+[Final project I](final_part1.md)<br>
 
-[Final project: Part 2](final-project-part-two.md)<br>
+[Final project II](final-project-part-two.md)<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniela-decoud-colev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
