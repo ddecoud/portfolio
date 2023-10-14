@@ -78,8 +78,8 @@ Second, to receive feedback about my structure, aesthetics and charts.
 | What excited you the most?                       | 'The graphs depicting diversity' |
 | What resonated with you the most?                | 'Educational attainment by country' |
 | What would you change?                           | - |
-| Affirmative action reaction?                     |  'Good to describe it as “wicked” problem, but does your audience know this design term? If so, then ok.' |
-| What made you curious and<br>which would be your next<br>steps if any? | 'It was interesting to learn about rankings as a potential reason for lack of diversity, but I am not sure what step to take next.' |
+| Affirmative action reaction?                     |  'Good to describe it as “wicked” problem, but does your audience know this design term? If so, then ok.'  |
+| What made you curious and which would be your next steps if any? | 'It was interesting to learn about rankings as a potential reason for lack of diversity, but I am not sure what step to take next.' |
 
 
 
@@ -87,15 +87,13 @@ Second, to receive feedback about my structure, aesthetics and charts.
 # Identified changes for Part III 
 
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
+| Research synthesis                       | Anticipated changes for Part III                         |
+|------------------------------------------|----------------------------------------------------------|
 | Lack of information of what steps to take after seeing this | Focusing more on the call to actions, give more options, do more interviews with key stakeholders of diversity (admissions, 'The center', etc.) |
-|                                          |
 | Structure is not compelling enough, and it's mixing | Continue reorganizing the structure of the story to make it more compelling. |
-|                                          | 
 | Infographics are not clear enough | Improve the infographics aesthetic, and make them stand out. Clarify the ranking infographic to make it more contrasting. |                                                                                                                   
 
-* On a final note, I think I'm on the right track. I need to continue doing interviews, and focusing more on the outcomes. What is going to be the achievable next step for students to do something about this interesting issue?
+* On a final note, I think I'm on the right track. I need to continue doing interviews and focusing more on the outcomes. What will the achievable next step be for students to do something about this interesting issue?
 
 # Color palettes
 
