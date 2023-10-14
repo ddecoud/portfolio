@@ -42,7 +42,7 @@ I hope this research sheds some light on this controversial topic. While talking
 
 **RESOLUTION**
 
-1) In the end, Latinx rates are growing. (Line chart). :)
+1) In the end, Latinx rates are growing. (Line chart). :)<br>
 2) But, Affirmative action might have negative consequences. (Text explanation) :(
 
 # Initial sketches
