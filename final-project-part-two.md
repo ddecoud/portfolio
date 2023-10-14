@@ -53,11 +53,11 @@ Second, to receive feedback about my structure, aesthetics and charts.
 
 | Questions                        | Interview 1 - Latinx - 30s - CMU Graduate Student      |                     
 |----------------------------------|----------------------------------------------------------------           
-| What excited you the most?       | The information the story has,<br> the data showcased. |
+| What excited you the most?       | The information the story has, the data showcased. |
 | What resonated with you the most?| The low percentage of Latinxs was shocking |
-| What would you change?           | Aesthetics in infographics, the infographic about<br>university rankings is not clear  enough. |
-| Affirmative action reaction?     | It was really interesting to understand more on<br>the topic. Now I want to do more research about it. |
-| What made you curious and<br>which would be your next<br>steps if any? | To research more about the disparty of US population and CMU population      | 
+| What would you change?           | Aesthetics in infographics, the infographic about university rankings is not clear  enough. |
+| Affirmative action reaction?     | It was really interesting to understand more on the topic. Now I want to do more research about it. |
+| What made you curious and<br>which would be your next steps if any? | To research more about the disparty of US population and CMU population      | 
 
 <br>
 <br>
@@ -65,9 +65,9 @@ Second, to receive feedback about my structure, aesthetics and charts.
 | Questions                        | Interview 2 - Asian - 30s - CMU Graduate Student |                          
 |----------------------------------|----------------------------------------------------------------           
 | What excited you the most?       | 'The data is extremely interesting.' |
-| What resonated with you the most? | 'I think 'Asians' as an ethnicity is too<br> broad, because I feel I'm also underepresented and I'm from Southeast Asia. But I'm interested in the topic.' |
-| What would you change?           | 'The structure of the story is a bit confusing.<br> I would reorganize it. Also, I would stick only to the Gini index and not the educational attainment nor the rankings.' |
-| Affirmative action reaction?     |  'It was wrong, I think it's interesting to<br> understand how we are going to make it better now' |
+| What resonated with you the most? | 'I think 'Asians' as an ethnicity is too broad, because I feel I'm also underepresented and I'm from Southeast Asia. But I'm interested in the topic.' |
+| What would you change?           | 'The structure of the story is a bit confusing. I would reorganize it. Also, I would stick only to the Gini index and not the educational attainment nor the rankings.' |
+| Affirmative action reaction?     |  'It was wrong, I think it's interesting to understand how we are going to make it better now' |
 | What made you curious and which would be your next<br>steps if any? |  'The CMU resources, I didn't know there were actions being taken.' |
 
 <br>
