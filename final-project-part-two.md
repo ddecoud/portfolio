@@ -62,7 +62,6 @@ Second, to receive feedback about my structure, aesthetics and charts.
 | What made you curious and<br>which would be your next steps if any? | To research more about the disparty of US population and CMU population      | 
 
 <br>
-<br>
 
 | Questions                        | Interview 2 - Asian - 30s - CMU Graduate Student |                          
 |----------------------------------|----------------------------------------------------------------           
@@ -72,7 +71,6 @@ Second, to receive feedback about my structure, aesthetics and charts.
 | Affirmative action reaction?     |  'It was wrong, I think it's interesting to understand how we are going to make it better now' |
 | What made you curious and which would be your next<br>steps if any? |  'The CMU resources, I didn't know there were actions being taken.' |
 
-<br>
 <br>
 
 | Questions                                        | Interview 3 - Asian - 30s - CMU Phd |                        
@@ -88,14 +86,14 @@ Second, to receive feedback about my structure, aesthetics and charts.
 
 # Identified changes for Part III 
 
+* On a final note, I think I'm on the right track. I need to continue doing interviews and focusing more on the outcomes. What will the achievable next step be for students to do something about this interesting issue?
+
 
 | Research synthesis                       | Anticipated changes for Part III                         |
 |------------------------------------------|----------------------------------------------------------|
 | Lack of information of what steps to take after seeing this | Focusing more on the call to actions, give more options, do more interviews with key stakeholders of diversity (admissions, 'The center', etc.) |
 | Structure is not compelling enough, and it's mixing | Continue reorganizing the structure of the story to make it more compelling. |
 | Infographics are not clear enough | Improve the infographics aesthetic, and make them stand out. Clarify the ranking infographic to make it more contrasting. |                                                                                                                   
-
-* On a final note, I think I'm on the right track. I need to continue doing interviews and focusing more on the outcomes. What will the achievable next step be for students to do something about this interesting issue?
 
 # Color palettes
 
