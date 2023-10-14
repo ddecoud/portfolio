@@ -24,17 +24,17 @@ I hope this research sheds some light on this controversial topic. While talking
 
 **SETUP**
 
-1) Diversity at CMU
+1) Diversity at CMU.<br>
 * General chart of diversity at CMU (Pie chart) -> We all know CMU is highly international.
 * Population in the US (metaphorical chart) -> Latinxs are the second largest population of the US.
   
 **CONFLICT** 
 
-1) First chart - expected diversity vs. actual diversity at CMU
-2) Title and open-ended question with closing (reveal technique)
-3) Explaining why I decided to check another Tech University rates
-4) Three major tech university charts compared
-5) Explaining other potential reasons
+1) First chart - expected diversity vs. actual diversity at CMU.<br>
+2) Title and open-ended question with closing (reveal technique).<br>
+3) Explaining why I decided to check another Tech University rates.<br>
+4) Three major tech university charts compared.<br>
+5) Explaining other potential reasons.<br>
 * Educational level - ‘Educational Attainment, at least Bachelor’s or equivalent’ Comparing selected countries.
 * University rankings - Comparing the top 5 Universities in Asia and Latin America
 * Economic level - Gini index charts - possible relation? Comparing selected countries in Asia and Latin America.
