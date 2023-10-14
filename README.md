@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=90&animation=twinkling)
 
+# About me
+
 <img src="docs/assets/Studio Session-517-2 (2).jpg" width="200px"> 
 
 _Igniting technology<br>
