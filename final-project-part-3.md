@@ -1,7 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](README.md) | [Visualizing Government Debt](government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final_part1.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-3.md)
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+
 
 Text here!
 
