@@ -29,6 +29,8 @@ As a Product Manager, data is one of my core assets when making product decision
 
 [Final project II](final-project-part-two.md)<br>
 
+[Final project III](final-project-part-three.md)<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/daniela-decoud-colev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:daniela.decoud@gmail.com?subject=Hola,%20Daniela%20Decoud"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
